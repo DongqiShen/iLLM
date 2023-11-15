@@ -1,0 +1,13 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/dongqishen/Workspace/m1_gemm/build",
+            "binaryPath": "/Users/dongqishen/Workspace/m1_gemm/build/main",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "utils.h": "c",
+        "common.h": "c"
+    }
+}
