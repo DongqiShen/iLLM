@@ -1,4 +1,6 @@
-# RECORD
+# iLLm
+
+从零开始用C实现大语言模型的推理，计划首先支持Mac m1，并以Qwen-int4版本为例。
 
 ## VSCODE DEBUG
 
